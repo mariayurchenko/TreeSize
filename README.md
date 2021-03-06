@@ -44,6 +44,8 @@ Pattern MVVM
 
 Multithreading
 
+Unit testing
+
 
 [analysis]: https://github.com/mariayurchenko/TreeSize/blob/main/foto/analysis.PNG "Analysis"
 [load]: https://github.com/mariayurchenko/TreeSize/blob/main/foto/load.png "Load"
